@@ -1983,6 +1983,16 @@ input, select, textarea {
 			.icon.featured:before {
 				font-size: 6em;
 			}
+		.icon.large {
+			color: #43B3E0;
+			display: block;
+			margin: 0 0 1.5em 0;
+			cursor: default;
+		}
+
+			.icon.large:before {
+				font-size: 3em;
+			}
 
 /* Wrappers */
 
